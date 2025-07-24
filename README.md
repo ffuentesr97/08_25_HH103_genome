@@ -55,7 +55,7 @@ pilon --genome assembly_pacbio_HH103.fasta --frags frags.bam
 
 - **BioSample**: [`SAMN47263981`](https://www.ncbi.nlm.nih.gov/biosample/SAMN47263981)  
 - **BioProject**: [`PRJNA1233244`](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1233244)  
-- **SRA Runs**: [`SRR34701253`](https://dataview.ncbi.nlm.nih.gov/object/SRR34701253) ; 
+- **SRA Runs**: [`SRR34701253`](https://dataview.ncbi.nlm.nih.gov/object/SRR34701253) ; [`SRR34710307`](https://dataview.ncbi.nlm.nih.gov/object/SRR34710307)
 
 ---
 
