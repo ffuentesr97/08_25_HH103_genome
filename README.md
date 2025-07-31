@@ -60,7 +60,7 @@ pilon --genome assembly_pacbio_HH103.fasta --frags frags.bam
 ---
 
 ## Visualizations
-![Circos Plot of HH103 Genome] (circos_plot/hh103_circos.png)  
+![Circos Plot of HH103 Genome] (circos_plot/HH103_circos.png)  
 *Figure 1. Circular representation of the HH103 genome showing key features and plasmids.*
 
 ## Accession Numbers
