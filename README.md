@@ -20,6 +20,9 @@ This repository contains the script for the updated sequencing and functional re
 
 The updated annotation improves accuracy in coding regions and symbiosis-related genes, enabling further comparative and functional genomics.
 
+This work aims to improve the genome annotation of *S. fredii* HH103 to facilitate the discovery of genes involved in symbiotic nitrogen fixation, host interaction, and plasmid dynamics.
+
+
 ---
 
 ## Genome Assembly
@@ -45,11 +48,20 @@ pilon --genome assembly_pacbio_HH103.fasta --frags frags.bam
 ---
 
 ## Repository Contents
- 
-- `scripts/` – Analysis or submission-related scripts   
+
+- annotation_updated/ – Final GFF3 annotation and feature tables
+
+- circos_plot/ – Circos configuration and image files
+
+- transposases/ – Scripts and output related to transposase gene detection
+  
 - `README.md` – Project overview and citation
 
 ---
+
+## Visualizations
+![Circos Plot of HH103 Genome] (circos_plot/hh103_circos.png)  
+*Figure 1. Circular representation of the HH103 genome showing key features and plasmids.*
 
 ## Accession Numbers
 
