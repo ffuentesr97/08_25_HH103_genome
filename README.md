@@ -49,12 +49,10 @@ pilon --genome assembly_pacbio_HH103.fasta --frags frags.bam
 
 ## Repository Contents
 
-- annotation_updated/ – Final GFF3 annotation and feature tables
-
-- circos_plot/ – Circos configuration and image files
-
-- transposases/ – Scripts and output related to transposase gene detection
-  
+- `scripts/` – Bash/Python scripts used for genome annotation or visualization  
+- `annotation_updated/` – Final GFF3 annotation and feature tables  
+- `circos_plot/` – Circos configuration and image files  
+- `transposases/` – Scripts and output related to transposase gene detection  
 - `README.md` – Project overview and citation
 
 ---
