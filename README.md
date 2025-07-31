@@ -1,6 +1,6 @@
 # Updated Genome Sequencing and Reannotation of the Broad Host Range Rhizobial Symbiont *Sinorhizobium fredii* HH103
 
-**Francisco Fuentes-Romero¹*, Francisco-Javier López-Baena¹, José-María Vinardell¹*, Sebastián Acosta-Jurado¹**
+**Francisco Fuentes-Romero¹, Francisco-Javier López-Baena¹, José-María Vinardell¹, Sebastián Acosta-Jurado¹**
 
 <sup>¹ Department of Microbiology, Faculty of Biology, University of Seville, Spain</sup>  
 ffuentesr@us.es, jlopez@us.es, jvinar@us.es, sacosta@us.es
